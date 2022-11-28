@@ -1,6 +1,2 @@
-let myFirstFunction = (name, greeting) => {
-    console.log("" + greeting + "! Mam na imię " + name + "");
-};
-
-myFirstFunction("Paweł", "Hej");
-myFirstFunction("Jan", "Witaj");
+let bool = 1 > 2;
+console.log(bool);
